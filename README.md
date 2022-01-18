@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @19abhishek
+- 👋 Hi, I’m Abhishek. I'm currently a software engineer at Bank Of America.
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
